@@ -10,7 +10,7 @@ import { ActivityListComponent } from './activity-list/activity-list.component';
 
 const routes: Routes = [
   { path: 'accounts', component: AccountListComponent },
-  { path: 'account-create', component: AccountCreateComponent },
+  { path: 'create-account', component: AccountCreateComponent },
   { path: 'contacts', component: ContactListComponent },
   { path: 'create-contact', component: ContactCreateComponent},
   { path: 'activities', component: ActivityListComponent },
